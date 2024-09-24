@@ -1,5 +1,5 @@
 ## Fetchi
-A simple CLI tool written using ChatGPT with Python. Works great, so I decided to post it's easier for me to share this with others!  <br>
+A simple CLI tool written using ChatGPT with Python. Works great, so I decided to post it's easier for me to share it with others!  <br>
 Reminder: This is written using ChatGPT, if there are any problems, I will immediately delete this project.
 
 ## 1. Installation
